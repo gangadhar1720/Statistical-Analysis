@@ -40,3 +40,8 @@ Inferential statistics help make predictions or inferences about a population ba
 >ANOVA (Analysis of Variance): Compares means across multiple groups.
 
 >Chi-Square Test: Tests independence between categorical variables.
+
+
+Done by:
+B.Gangadhar
+Email  :gangadharbosetti@gmail.com
