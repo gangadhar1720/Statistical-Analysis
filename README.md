@@ -43,5 +43,7 @@ Inferential statistics help make predictions or inferences about a population ba
 
 
 Done by:
+
 B.Gangadhar
+
 Email  :gangadharbosetti@gmail.com
